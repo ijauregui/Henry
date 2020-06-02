@@ -1,0 +1,11 @@
+<style>
+	.fondo2{background-color: green}
+	.thirdDiv{height: 600px;width: 500px;background-color: coral;padding: 50px;border: solid;border-width: 10px;border-color: burlywood;font-size: 20px;font-weight: bold;backface-visibility: all;margin-left: 25%}
+	.SpanId{font-size: 18px;margin: 50px;color:white;font:bold;}
+	h3{color: palegreen;}
+	h4{color: palegreen;}
+	h1{color:white;}
+	.divclass{margin-left: center}
+	.fondo{background-image: url(https://static3.bigstockphoto.com/8/2/1/large1500/128842748.jpg);	background-position: center;background-size: cover;}
+
+	</style>
